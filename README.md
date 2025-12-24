@@ -1,4 +1,4 @@
-#🍹 Zest & Co. — Premium Drinks Website
+# 🍹Zest & Co. — Premium Drinks Website
 
 Zest & Co. est un site web moderne et interactif dédié à la présentation et à la vente de boissons artisanales premium.
 Le projet met en avant une expérience utilisateur fluide, un design élégant et des fonctionnalités dynamiques, entièrement réalisées en HTML, CSS et JavaScript (Vanilla), sans framework.
@@ -7,7 +7,8 @@ Il s’agit d’un projet idéal pour un portfolio front-end ou un mini site e-c
 
 
 
-✨ Fonctionnalités principales
+---
+ ##  ✨ Fonctionnalités principales
 
 🎯 Landing page professionnelle avec slider animé (Hero Section)
 
@@ -39,7 +40,10 @@ Sauvegarde du panier avec localStorage
 
 
 
-🛠️ Technologies utilisées
+
+
+---
+ ##  🛠️ Technologies utilisées
 
 HTML5 — structure sémantique
 
@@ -67,9 +71,11 @@ Google Fonts — typographie moderne
 
 
 
-📁 Structure du projet
-zest-and-co/
-│
+
+---
+  ##  📁 Structure du projet
+
+```text
 ├── index.html
 ├── style.css
 ├── script.js
