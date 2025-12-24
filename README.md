@@ -1,8 +1,9 @@
-🍸 Zest & Co. – Animated Drink Catalog Website
+#🍸 Zest & Co. – Animated Drink Catalog Website
 Un site e-commerce moderne et professionnel pour un catalogue de boissons artisanales, développé avec HTML5, CSS3 et JavaScript Vanilla.
 Idéal pour des projets boutique en ligne, catalogue produits, présentation de bar, ou des projets web académiques.
 
-✨ Aperçu des fonctionnalités
+
+#✨ Aperçu des fonctionnalités
 🎨 Design moderne avec palette professionnelle (#8B4513, #D2691E)
 
 🔥 Animations fluides (slider, filtres, cartes, panier)
@@ -13,9 +14,10 @@ Idéal pour des projets boutique en ligne, catalogue produits, présentation de 
 
 🌟 Slider hero auto-rotatif avec contrôles
 
-⚡ Performance optimisée (chargement lazy, animations CSS)
+⚡ Performance optimisée (chargement lazy, animations CSS
 
-🧰 Technologies utilisées
+
+#🧰 Technologies utilisées
 HTML5 – Structure sémantique
 
 CSS3 – Grid, Flexbox, Animations, Variables CSS
@@ -29,8 +31,8 @@ Google Fonts – Typographie professionnelle
 Unsplash API – Images HD de qualité
 
 📁 Structure du projet
-text
-zest-co-drinks/
+......
+
 ├── index.html          
 ├── style.css           
 ├── script.js          
@@ -40,12 +42,13 @@ zest-co-drinks/
 │   ├── irish_coffee.png
 │   ├── pina_colada.png
 │   └── ...
-└── README.md    
+└── README.md  
+........
 
 
 
 
-🎯 Expérience utilisateur
+#🎯 Expérience utilisateur
 
 🍔Navigation menu hamburger pour mobile
 
