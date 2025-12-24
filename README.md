@@ -1,71 +1,78 @@
-#🍸 Zest & Co. – Animated Drink Catalog Website
-Un site e-commerce moderne et professionnel pour un catalogue de boissons artisanales, développé avec HTML5, CSS3 et JavaScript Vanilla.
-Idéal pour des projets boutique en ligne, catalogue produits, présentation de bar, ou des projets web académiques.
+🍹 Zest & Co. — Premium Drinks Website
+
+Zest & Co. est un site web moderne et interactif dédié à la présentation et à la vente de boissons artisanales premium.
+Le projet met en avant une expérience utilisateur fluide, un design élégant et des fonctionnalités dynamiques, entièrement réalisées en HTML, CSS et JavaScript (Vanilla), sans framework.
+
+Il s’agit d’un projet idéal pour un portfolio front-end ou un mini site e-commerce démontrant la maîtrise des bases du développement web moderne.
 
 
-#✨ Aperçu des fonctionnalités
-🎨 Design moderne avec palette professionnelle (#8B4513, #D2691E)
 
-🔥 Animations fluides (slider, filtres, cartes, panier)
+✨ Fonctionnalités principales
 
-🎛️ Filtrage intelligent par catégories
+🎯 Landing page professionnelle avec slider animé (Hero Section)
 
-📞 Formulaire de contact avec validation
+🍸 Catalogue de boissons dynamique
 
-🌟 Slider hero auto-rotatif avec contrôles
+Filtrage par catégories (Cocktails, Asiatiques, Chaudes spécialités, Non-alcoholic)
 
-⚡ Performance optimisée (chargement lazy, animations CSS
+Génération automatique des cartes produits via JavaScript
+
+🛒 Panier d’achat interactif
+
+Gestion des quantités
+
+Calcul automatique du total
+
+Sauvegarde du panier avec localStorage
+
+✅ Confirmation de commande avec génération d’un ID unique
 
 
-#🧰 Technologies utilisées
-HTML5 – Structure sémantique
 
-CSS3 – Grid, Flexbox, Animations, Variables CSS
+📱 Design responsive (Desktop, Tablet, Mobile)
 
-JavaScript (ES6+) – Logique interactive
+🔝 Bouton Scroll to Top
 
-Font Awesome – Icônes modernes
+🎨 Animations fluides (hover, scroll, transitions)
 
-Google Fonts – Typographie professionnelle
+📬 Formulaire de contact fonctionnel (front-end)
 
-Unsplash API – Images HD de qualité
+
+
+🛠️ Technologies utilisées
+
+HTML5 — structure sémantique
+
+CSS3
+
+Flexbox & Grid
+
+Variables CSS
+
+Animations et transitions
+
+JavaScript (Vanilla)
+
+DOM Manipulation
+
+Events
+
+LocalStorage
+
+Slider & filtres dynamiques
+
+Font Awesome — icônes
+
+Google Fonts — typographie moderne
+
+
 
 📁 Structure du projet
-......
-
-├── index.html          
-├── style.css           
-├── script.js          
-├── images/            
-│   ├── margarita.png
-│   ├── sake_nigori.png
-│   ├── irish_coffee.png
-│   ├── pina_colada.png
-│   └── ...
-└── README.md  
-........
-
-
-
-
-#🎯 Expérience utilisateur
-
-🍔Navigation menu hamburger pour mobile
-
-🎯 Navigation fluide avec scroll animé
-
-🏷️ Filtres connectés entre header et footer
-
-🔝 Bouton "scroll to top" intelligent
-
-
-Catalogue
-🃏 Cartes produits animées (hover, fade-in)
-
-🎚️ 4 catégories : Cocktails, Asiatiques, Chaudes, Non-alcoolisées
-
-🔄 Filtrage animé avec effets de fondu
-
-💾 12+ boissons avec descriptions professionnelles
-
-
+zest-and-co/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   └── (images des boissons et du site)
+└── README.md
