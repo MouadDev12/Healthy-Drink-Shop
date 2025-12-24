@@ -28,10 +28,6 @@ Sauvegarde du panier avec localStorage
 
 ✅ Confirmation de commande avec génération d’un ID unique
 
-
-
-📱 Design responsive (Desktop, Tablet, Mobile)
-
 🔝 Bouton Scroll to Top
 
 🎨 Animations fluides (hover, scroll, transitions)
@@ -46,27 +42,14 @@ Sauvegarde du panier avec localStorage
  ##  🛠️ Technologies utilisées
 
 HTML5 — structure sémantique
-
 CSS3
-
 Flexbox & Grid
-
 Variables CSS
-
 Animations et transitions
-
 JavaScript (Vanilla)
-
 DOM Manipulation
-
 Events
-
-LocalStorage
-
-Slider & filtres dynamiques
-
 Font Awesome — icônes
-
 Google Fonts — typographie moderne
 
 
