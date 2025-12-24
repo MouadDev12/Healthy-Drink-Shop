@@ -68,9 +68,13 @@ Google Fonts — typographie moderne
   ##  📁 Structure du projet
 
 ```text
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   └── (images des boissons et du site)
-└── README.md
+
+├── 📄 index.html          
+├── 🎨 style.css          
+├── ⚙️ script.js           
+├── 📁 images/           
+│   ├── 🍸 margarita.png
+│   ├── 🍶 sake_nigori.png
+│   ├── ☕ irish_coffee.png
+│   └── ... (12 total)
+└── 📖 README.md           
