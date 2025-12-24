@@ -42,14 +42,23 @@ Sauvegarde du panier avec localStorage
  ##  🛠️ Technologies utilisées
 
 HTML5 — structure sémantique
+
 CSS3
+
 Flexbox & Grid
+
 Variables CSS
+
 Animations et transitions
+
 JavaScript (Vanilla)
+
 DOM Manipulation
+
 Events
+
 Font Awesome — icônes
+
 Google Fonts — typographie moderne
 
 
